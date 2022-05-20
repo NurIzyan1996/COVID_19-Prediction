@@ -24,3 +24,8 @@ modules.py contains the codes where there are class and functions to be used in 
 
 # Tensorboard screenshot from my browser
 ![Tensorboard](tensorboard.PNG)
+
+# Discussion
+
+# Credit
+Big thanks to the owner of the datasets GitHub - MoH-Malaysia/covid19-public: Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.
