@@ -19,6 +19,7 @@ modules.py contains the codes where there are class and functions to be used in 
 
 # The Performance of model
 ![The Performance of model](MAPE.PNG)
+![The Performance of model](actual_pred_graph.png)
 
 # Tensorboard screenshot from my browser
 ![Tensorboard](tensorboard.PNG)
